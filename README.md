@@ -1,2 +1,2 @@
 # proyecto-salud
-sistemas de 
+Sistema de administración y logística unificada para distribución
